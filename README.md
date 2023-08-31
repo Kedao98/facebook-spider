@@ -4,7 +4,7 @@
 # 2.快速开始
 配置依赖
 ```shell
-python3 -m pip3 install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 启动爬虫
 ```python
