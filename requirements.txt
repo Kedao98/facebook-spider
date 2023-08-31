@@ -1,0 +1,6 @@
+loguru==0.7.0
+pandas==1.5.3
+selenium==3.141.0
+webdriver_manager==4.0.0
+
+lxml~=4.9.2
